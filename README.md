@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Rituparna Gogoi creative GitHub banner" width="100%" />
+  <img src="./assets/profile-banner.gif" alt="Rituparna Gogoi animated GitHub banner" width="100%" />
 </p>
 
 <p align="center">
