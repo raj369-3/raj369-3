@@ -17,8 +17,11 @@
   <a href="https://github.com/raj369-3">
     <img src="https://img.shields.io/badge/GitHub-raj369--3-0D1117?style=for-the-badge&logo=github&logoColor=45E6FF&labelColor=090C14" alt="GitHub profile link" />
   </a>
+  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rituparna_Gogoi-0D1117?style=for-the-badge&logo=linkedin&logoColor=45E6FF&labelColor=090C14" alt="LinkedIn profile link" />
+  </a>
   <a href="mailto:ritkashyap0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ritkashyap0%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9B3D&labelColor=090C14" alt="Email link" />
+    <img src="https://img.shields.io/badge/Work_Gmail-ritkashyap0%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9B3D&labelColor=090C14" alt="Work Gmail link" />
   </a>
 </p>
 
@@ -109,10 +112,13 @@ Portfolio Direction : Recruiter-ready data projects with clean writeups
 
 <p align="center">
   <a href="https://github.com/raj369-3">
-    <img src="https://img.shields.io/badge/Profile-@raj369--3-0D1117?style=flat-square&logo=github&logoColor=45E6FF&labelColor=090C14" alt="GitHub handle badge" />
+    <img src="https://img.shields.io/badge/GitHub-@raj369--3-0D1117?style=flat-square&logo=github&logoColor=45E6FF&labelColor=090C14" alt="GitHub handle badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rituparna_Gogoi-0D1117?style=flat-square&logo=linkedin&logoColor=45E6FF&labelColor=090C14" alt="LinkedIn profile badge" />
   </a>
   <a href="mailto:ritkashyap0@gmail.com">
-    <img src="https://img.shields.io/badge/Reach_Out-Email-0D1117?style=flat-square&logo=gmail&logoColor=FF9B3D&labelColor=090C14" alt="Reach out by email badge" />
+    <img src="https://img.shields.io/badge/Work_Gmail-ritkashyap0%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=FF9B3D&labelColor=090C14" alt="Reach out by email badge" />
   </a>
 </p>
 

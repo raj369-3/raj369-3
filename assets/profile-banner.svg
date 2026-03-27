@@ -1,130 +1,137 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#05070D"/>
-      <stop offset="0.45" stop-color="#0A1120"/>
-      <stop offset="1" stop-color="#060913"/>
+    <linearGradient id="bg" x1="56" y1="40" x2="1148" y2="388" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050914"/>
+      <stop offset="0.5" stop-color="#0B1630"/>
+      <stop offset="1" stop-color="#070B17"/>
     </linearGradient>
-    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(248 120) rotate(22) scale(420 280)">
-      <stop stop-color="#45E6FF" stop-opacity="0.26"/>
-      <stop offset="1" stop-color="#45E6FF" stop-opacity="0"/>
+    <linearGradient id="tealRibbon" x1="40" y1="36" x2="680" y2="286" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46E7FF"/>
+      <stop offset="1" stop-color="#46E7FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="tealRibbonSoft" x1="240" y1="40" x2="966" y2="362" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1BC7DF"/>
+      <stop offset="1" stop-color="#1BC7DF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="warmGlow" x1="802" y1="112" x2="1110" y2="310" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFB36A"/>
+      <stop offset="1" stop-color="#FFB36A" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orbGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(934 194) rotate(90) scale(170)">
+      <stop stop-color="#46E7FF" stop-opacity="0.28"/>
+      <stop offset="0.65" stop-color="#46E7FF" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#46E7FF" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="cyanCore" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(932 194) rotate(90) scale(164)">
-      <stop stop-color="#45E6FF" stop-opacity="0.34"/>
-      <stop offset="0.58" stop-color="#45E6FF" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#45E6FF" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="accentLine" x1="84" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#45E6FF"/>
-      <stop offset="1" stop-color="#8CF2FF"/>
+    <linearGradient id="accentLine" x1="102" y1="0" x2="298" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#46E7FF"/>
+      <stop offset="1" stop-color="#9EF8FF"/>
     </linearGradient>
-    <linearGradient id="signalStroke" x1="718" y1="136" x2="1124" y2="244" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#45E6FF"/>
-      <stop offset="1" stop-color="#7DEBFF"/>
-    </linearGradient>
-    <linearGradient id="pulseStroke" x1="734" y1="292" x2="1108" y2="292" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#3CC5DB"/>
-      <stop offset="1" stop-color="#45E6FF"/>
-    </linearGradient>
+    <filter id="blur48" x="-120" y="-120" width="1440" height="660" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="42" result="effect1_foregroundBlur"/>
+    </filter>
+    <filter id="blur24" x="-60" y="-60" width="1320" height="540" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="18" result="effect1_foregroundBlur"/>
+    </filter>
   </defs>
 
-  <rect width="1200" height="420" rx="30" fill="url(#bg)"/>
-  <rect x="18" y="18" width="1164" height="384" rx="22" stroke="#162338" stroke-width="1.5"/>
-  <rect x="36" y="36" width="1128" height="348" rx="18" stroke="#0E1727" stroke-width="1"/>
+  <rect width="1200" height="420" rx="32" fill="#04070F"/>
+  <rect x="20" y="18" width="1160" height="384" rx="24" fill="url(#bg)"/>
+  <rect x="20" y="18" width="1160" height="384" rx="24" stroke="#15243A" stroke-width="1.5"/>
+  <rect x="40" y="38" width="1120" height="344" rx="20" stroke="#0F1728" stroke-width="1"/>
 
-  <g opacity="0.7">
-    <path d="M0 56H1200" stroke="#101B2D" stroke-width="1"/>
-    <path d="M0 122H1200" stroke="#101B2D" stroke-width="1"/>
-    <path d="M0 188H1200" stroke="#101B2D" stroke-width="1"/>
-    <path d="M0 254H1200" stroke="#101B2D" stroke-width="1"/>
-    <path d="M0 320H1200" stroke="#101B2D" stroke-width="1"/>
-    <path d="M94 0V420" stroke="#101B2D" stroke-width="1"/>
-    <path d="M226 0V420" stroke="#101B2D" stroke-width="1"/>
-    <path d="M358 0V420" stroke="#101B2D" stroke-width="1"/>
-    <path d="M490 0V420" stroke="#101B2D" stroke-width="1"/>
-    <path d="M622 0V420" stroke="#101B2D" stroke-width="1"/>
-    <path d="M754 0V420" stroke="#101B2D" stroke-width="1"/>
-    <path d="M886 0V420" stroke="#101B2D" stroke-width="1"/>
-    <path d="M1018 0V420" stroke="#101B2D" stroke-width="1"/>
-    <path d="M1150 0V420" stroke="#101B2D" stroke-width="1"/>
+  <g opacity="0.6">
+    <path d="M0 88H1200" stroke="#101A2C" stroke-width="1"/>
+    <path d="M0 154H1200" stroke="#101A2C" stroke-width="1"/>
+    <path d="M0 220H1200" stroke="#101A2C" stroke-width="1"/>
+    <path d="M0 286H1200" stroke="#101A2C" stroke-width="1"/>
+    <path d="M0 352H1200" stroke="#101A2C" stroke-width="1"/>
+    <path d="M136 0V420" stroke="#101A2C" stroke-width="1"/>
+    <path d="M286 0V420" stroke="#101A2C" stroke-width="1"/>
+    <path d="M436 0V420" stroke="#101A2C" stroke-width="1"/>
+    <path d="M586 0V420" stroke="#101A2C" stroke-width="1"/>
+    <path d="M736 0V420" stroke="#101A2C" stroke-width="1"/>
+    <path d="M886 0V420" stroke="#101A2C" stroke-width="1"/>
+    <path d="M1036 0V420" stroke="#101A2C" stroke-width="1"/>
   </g>
 
-  <circle cx="248" cy="120" r="260" fill="url(#cyanGlow)"/>
-  <circle cx="932" cy="194" r="182" fill="url(#cyanCore)"/>
+  <g filter="url(#blur48)" opacity="0.55">
+    <path d="M48 74C96 34 184 26 286 48C398 72 508 124 548 210C586 292 532 354 430 374C320 396 170 376 104 302C36 228 -8 122 48 74Z" fill="url(#tealRibbon)"/>
+    <path d="M720 304C770 240 864 194 958 212C1038 228 1120 292 1146 350C1162 386 1138 404 1058 404H776C700 404 680 362 720 304Z" fill="url(#warmGlow)"/>
+  </g>
+
+  <g filter="url(#blur24)" opacity="0.7">
+    <path d="M18 132C104 98 204 96 306 106C430 118 540 160 612 212" stroke="url(#tealRibbonSoft)" stroke-width="54" stroke-linecap="round"/>
+    <path d="M780 316C848 332 924 334 1004 310C1086 286 1142 238 1172 196" stroke="#2AC5E0" stroke-opacity="0.12" stroke-width="40" stroke-linecap="round"/>
+  </g>
 
   <g opacity="0.92">
-    <rect x="76" y="74" width="242" height="30" rx="15" fill="#0A1423" stroke="#1D314A"/>
-    <text x="97" y="94" fill="#9CF4FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.4">SIGNALS / MODELS / STORIES</text>
+    <rect x="88" y="78" width="210" height="30" rx="15" fill="#0C1829" stroke="#1F3248"/>
+    <text x="108" y="98" fill="#A5F8FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">CURIOUS / ANALYTICAL / BUILDING</text>
   </g>
 
-  <text x="74" y="164" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="5.2">RITUPARNA GOGOI</text>
-  <text x="78" y="208" fill="#A8C8E8" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1.6">TRACING PATTERNS THROUGH NOISE</text>
-  <path d="M78 232H258" stroke="url(#accentLine)" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="278" cy="232" r="4" fill="#45E6FF"/>
-  <circle cx="296" cy="232" r="4" fill="#7DEBFF" fill-opacity="0.72"/>
+  <text x="88" y="168" fill="#F8FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="4.2">RITUPARNA GOGOI</text>
+  <text x="92" y="214" fill="#B9D4F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="1.1">Machine learning, analytics, and curious experiments.</text>
+  <path d="M92 240H292" stroke="url(#accentLine)" stroke-width="3.2" stroke-linecap="round"/>
+  <circle cx="314" cy="240" r="4" fill="#46E7FF"/>
+  <circle cx="332" cy="240" r="4" fill="#9EF8FF" fill-opacity="0.76"/>
 
-  <text x="78" y="278" fill="#D8F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Curious experiments, machine learning, and visual stories built in public.</text>
-  <text x="78" y="310" fill="#86A6C7" font-family="Segoe UI, Arial, sans-serif" font-size="16">Code / models / notebooks / cleaner explanations / sharper projects</text>
+  <text x="92" y="286" fill="#E6FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Projects, notebooks, visual stories, and better systems built in public.</text>
+  <text x="92" y="318" fill="#86A2C1" font-family="Segoe UI, Arial, sans-serif" font-size="16">A sharper profile, cleaner writeups, and stronger signals of real work.</text>
 
   <g opacity="0.95">
-    <rect x="78" y="336" width="170" height="32" rx="16" fill="#09111D" stroke="#223852"/>
-    <text x="103" y="357" fill="#A6F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">PUBLIC BUILD LOG</text>
-    <rect x="260" y="336" width="132" height="32" rx="16" fill="#09111D" stroke="#223852"/>
-    <text x="286" y="357" fill="#D8F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">@raj369-3</text>
+    <rect x="92" y="340" width="142" height="32" rx="16" fill="#09101C" stroke="#22374E"/>
+    <text x="122" y="361" fill="#D9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">@raj369-3</text>
+    <rect x="246" y="340" width="186" height="32" rx="16" fill="#09101C" stroke="#22374E"/>
+    <text x="272" y="361" fill="#9DF7FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">BUILDING IN PUBLIC</text>
   </g>
 
-  <g opacity="0.54">
-    <circle cx="934" cy="194" r="124" stroke="#18314A" stroke-width="1.2"/>
-    <circle cx="934" cy="194" r="88" stroke="#18314A" stroke-width="1.2"/>
-    <circle cx="934" cy="194" r="52" stroke="#26435E" stroke-width="1.2"/>
-    <path d="M760 194H1110" stroke="#18314A" stroke-width="1.2"/>
-    <path d="M934 62V328" stroke="#18314A" stroke-width="1.2"/>
-  </g>
+  <circle cx="934" cy="194" r="170" fill="url(#orbGlow)"/>
+  <circle cx="934" cy="194" r="126" stroke="#163252" stroke-width="1.2"/>
+  <circle cx="934" cy="194" r="90" stroke="#183B5F" stroke-width="1.2"/>
+  <circle cx="934" cy="194" r="56" stroke="#20517A" stroke-width="1.2"/>
+  <path d="M756 194H1114" stroke="#15314F" stroke-width="1.2"/>
+  <path d="M934 52V336" stroke="#15314F" stroke-width="1.2"/>
+  <path d="M826 90C860 76 902 76 934 92C970 110 1002 150 1042 146C1072 144 1094 126 1110 112" stroke="#214A70" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M810 280C846 306 904 318 958 304C1010 292 1064 254 1090 222" stroke="#214A70" stroke-width="1.2" stroke-linecap="round"/>
 
   <g opacity="0.96">
-    <path d="M716 252L778 238L842 172L908 192L970 130L1038 152L1100 104" stroke="url(#signalStroke)" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="716" cy="252" r="5" fill="#45E6FF"/>
-    <circle cx="778" cy="238" r="5" fill="#7DEBFF"/>
-    <circle cx="842" cy="172" r="5" fill="#45E6FF"/>
-    <circle cx="908" cy="192" r="5" fill="#7DEBFF"/>
-    <circle cx="970" cy="130" r="5" fill="#45E6FF"/>
-    <circle cx="1038" cy="152" r="5" fill="#7DEBFF"/>
-    <circle cx="1100" cy="104" r="5" fill="#45E6FF"/>
+    <path d="M734 242L792 222L854 152L920 170L986 128L1050 150L1110 102" stroke="#64E8FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="734" cy="242" r="5.5" fill="#64E8FF"/>
+    <circle cx="792" cy="222" r="5.5" fill="#8AF2FF"/>
+    <circle cx="854" cy="152" r="5.5" fill="#64E8FF"/>
+    <circle cx="920" cy="170" r="5.5" fill="#CAF9FF"/>
+    <circle cx="986" cy="128" r="5.5" fill="#64E8FF"/>
+    <circle cx="1050" cy="150" r="5.5" fill="#8AF2FF"/>
+    <circle cx="1110" cy="102" r="5.5" fill="#64E8FF"/>
   </g>
 
   <g opacity="0.9">
-    <path d="M734 296H778L796 274L824 316L852 266L884 308L916 224L946 246L978 204L1006 230L1034 176L1066 210L1106 160" stroke="url(#pulseStroke)" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M756 308C782 292 808 270 830 256C846 246 860 246 874 262C888 278 900 294 916 296C936 298 954 274 970 250C986 224 1004 198 1024 196C1042 194 1058 212 1072 228C1086 244 1100 258 1118 248" stroke="#39CDE4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 
-  <g opacity="0.92">
-    <rect x="748" y="286" width="24" height="40" rx="6" fill="#122031"/>
-    <rect x="786" y="254" width="24" height="72" rx="6" fill="#16304A"/>
-    <rect x="824" y="226" width="24" height="100" rx="6" fill="#1B415F"/>
-    <rect x="862" y="202" width="24" height="124" rx="6" fill="#1F5378"/>
-    <rect x="900" y="174" width="24" height="152" rx="6" fill="#246992"/>
-    <rect x="938" y="214" width="24" height="112" rx="6" fill="#2A7BAA"/>
+  <g opacity="0.88">
+    <circle cx="934" cy="194" r="13" fill="#64E8FF" fill-opacity="0.18"/>
+    <circle cx="934" cy="194" r="6" fill="#E2FDFF"/>
+    <circle cx="854" cy="152" r="11" fill="#64E8FF" fill-opacity="0.12"/>
+    <circle cx="986" cy="128" r="11" fill="#64E8FF" fill-opacity="0.12"/>
+    <circle cx="1050" cy="150" r="11" fill="#64E8FF" fill-opacity="0.12"/>
   </g>
 
-  <g opacity="0.85">
-    <circle cx="934" cy="194" r="14" fill="#45E6FF" fill-opacity="0.18"/>
-    <circle cx="934" cy="194" r="6" fill="#C6FBFF"/>
-    <circle cx="842" cy="172" r="12" fill="#45E6FF" fill-opacity="0.12"/>
-    <circle cx="970" cy="130" r="12" fill="#45E6FF" fill-opacity="0.12"/>
-    <circle cx="1034" cy="176" r="10" fill="#45E6FF" fill-opacity="0.1"/>
+  <g opacity="0.68">
+    <text x="780" y="86" fill="#6B86A6" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">SIGNAL ORBIT</text>
+    <text x="1026" y="292" fill="#6B86A6" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">CREATIVE SYSTEMS</text>
   </g>
 
-  <g opacity="0.74">
-    <path d="M760 98C794 84 830 84 862 102" stroke="#1E3B58" stroke-width="1.2" stroke-linecap="round"/>
-    <path d="M1006 252C1030 274 1062 284 1094 280" stroke="#1E3B58" stroke-width="1.2" stroke-linecap="round"/>
-    <text x="768" y="92" fill="#6E8CA8" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">SIGNAL MAP</text>
-    <text x="1014" y="296" fill="#6E8CA8" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">ACTIVE CLUSTERS</text>
-  </g>
-
-  <g opacity="0.46">
-    <circle cx="120" cy="54" r="1.6" fill="#D8F7FF"/>
-    <circle cx="320" cy="66" r="1.6" fill="#D8F7FF"/>
-    <circle cx="1128" cy="84" r="1.6" fill="#D8F7FF"/>
-    <circle cx="1072" cy="334" r="1.6" fill="#D8F7FF"/>
-    <circle cx="964" cy="362" r="1.6" fill="#D8F7FF"/>
+  <g opacity="0.5">
+    <circle cx="110" cy="56" r="1.6" fill="#E2FDFF"/>
+    <circle cx="332" cy="70" r="1.6" fill="#E2FDFF"/>
+    <circle cx="746" cy="68" r="1.6" fill="#E2FDFF"/>
+    <circle cx="1140" cy="82" r="1.6" fill="#E2FDFF"/>
+    <circle cx="1080" cy="332" r="1.6" fill="#E2FDFF"/>
+    <circle cx="960" cy="362" r="1.6" fill="#E2FDFF"/>
   </g>
 </svg>
