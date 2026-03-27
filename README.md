@@ -55,11 +55,11 @@
 > A quick snapshot of the work and activity behind this profile.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj369-3&theme=github_dark" alt="GitHub profile details for raj369-3" width="100%" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details for raj369-3" width="100%" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj369-3&theme=github_dark" alt="Top languages for raj369-3" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages for raj369-3" />
   <img width="49%" src="https://streak-stats.demolab.com?user=raj369-3&theme=transparent&hide_border=false&border=21314D&ring=45E6FF&fire=FF9B3D&currStreakLabel=45E6FF&sideNums=F8FAFC&currStreakNum=F8FAFC&dates=90A9C7&sideLabels=C9DCF2" alt="GitHub streak stats for raj369-3" />
 </p>
 
