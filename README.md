@@ -5,44 +5,54 @@
 <h1 align="center">Rituparna Gogoi</h1>
 
 <p align="center">
-  <em>Machine learning, analytics, and visual storytelling.</em>
+  IIT Madras · Machine Learning · Analytics · Visual Storytelling
 </p>
 
 <p align="center">
-  <a href="https://github.com/raj369-3">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/">LinkedIn</a>
-  ·
-  <a href="mailto:ritkashyap0@gmail.com">Work Gmail</a>
+  <em>"Turning messy datasets into readable stories, useful models, and sharper project work."</em>
 </p>
 
 <p align="center">
-  I study Data Science at IIT Madras and I like building machine learning projects, cleaner analyses, and stronger public writeups.
+  <a href="https://github.com/raj369-3"><strong>GitHub</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/"><strong>LinkedIn</strong></a>
+  ·
+  <a href="mailto:ritkashyap0@gmail.com"><strong>Work Gmail</strong></a>
+</p>
+
+<p align="center">
+  Building machine learning projects, cleaner analyses, and public writeups that are easy to follow.
 </p>
 
 ---
 
 ## About Me
 
-- I enjoy turning messy data into clear stories, useful models, and readable project work.
-- I care about clean problem framing, structured experimentation, and results that are easy to explain.
-- Right now I am focused on building a small but strong body of public work.
+> I care more about clarity than noise: fewer projects, better execution, and stronger explanations.
+
+- I study Data Science at IIT Madras and use GitHub as a public log of how I think, build, and improve.
+- I like structured experimentation, readable project work, and results that can be explained without unnecessary jargon.
+- Right now, I am focused on turning coursework and side projects into stronger, portfolio-ready repositories.
 
 ---
 
 ## Toolkit
+
+> The tools I reach for most often when working with data, models, and visual explanations.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,tensorflow,pytorch,git,github,vscode,linux,bash,anaconda&theme=dark" alt="Core data science and development tools" />
 </p>
 
 <p align="center">
-  Python, pandas, NumPy, scikit-learn, TensorFlow, PyTorch, SQL, Jupyter, Plotly, Git, and Linux.
+  <code>Python</code> <code>pandas</code> <code>NumPy</code> <code>scikit-learn</code> <code>TensorFlow</code> <code>PyTorch</code> <code>SQL</code> <code>Jupyter</code> <code>Plotly</code> <code>Git</code> <code>Linux</code>
 </p>
 
 ---
 
 ## GitHub Activity
+
+> A quick snapshot of the work and activity behind this profile.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj369-3&theme=github_dark" alt="GitHub profile details for raj369-3" width="100%" />
