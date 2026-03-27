@@ -30,8 +30,6 @@
 
 ## About Me
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj369-3&layout=compact&hide_border=false&border_color=21314D&title_color=45E6FF&text_color=D3E8FF&bg_color=00000000" alt="Top languages used by raj369-3" />
-
 - I study Data Science at IIT Madras and I am building toward serious work in machine learning and analytics.
 - I like clean problem framing, structured experimentation, and turning messy datasets into understandable results.
 - My current goal is simple: build better repositories, better writeups, and better proof of skill in public.
