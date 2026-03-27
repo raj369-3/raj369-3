@@ -3,91 +3,40 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&pause=1200&color=45E6FF&center=true&vCenter=true&width=1000&lines=Patterns%2C+models%2C+and+curious+experiments;Building+machine+learning+and+analytics+projects+in+public;Turning+raw+data+into+clearer+stories+and+better+systems" alt="Typing introduction for Rituparna Gogoi" />
+  <em>Machine learning, analytics, and visual storytelling.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=45E6FF&labelColor=090C14" alt="Machine learning badge" />
-  <img src="https://img.shields.io/badge/Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=FF9B3D&labelColor=090C14" alt="Analytics badge" />
-  <img src="https://img.shields.io/badge/Visual_Storytelling-0D1117?style=for-the-badge&logo=plotly&logoColor=45E6FF&labelColor=090C14" alt="Visual storytelling badge" />
-  <img src="https://img.shields.io/badge/Open_To-Collaboration-0D1117?style=for-the-badge&logo=github&logoColor=45E6FF&labelColor=090C14" alt="Open to collaboration badge" />
+  <a href="https://github.com/raj369-3">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/">LinkedIn</a>
+  ·
+  <a href="mailto:ritkashyap0@gmail.com">Work Gmail</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/raj369-3">
-    <img src="https://img.shields.io/badge/GitHub-raj369--3-0D1117?style=for-the-badge&logo=github&logoColor=45E6FF&labelColor=090C14" alt="GitHub profile link" />
-  </a>
-  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rituparna_Gogoi-0D1117?style=for-the-badge&logo=linkedin&logoColor=45E6FF&labelColor=090C14" alt="LinkedIn profile link" />
-  </a>
-  <a href="mailto:ritkashyap0@gmail.com">
-    <img src="https://img.shields.io/badge/Work_Gmail-ritkashyap0%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF9B3D&labelColor=090C14" alt="Work Gmail link" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Rituparna Gogoi</strong><br />
-  Building thoughtful work around machine learning, analytics, and clearer ways to turn data into insight.
+  I study Data Science at IIT Madras and I like building machine learning projects, cleaner analyses, and stronger public writeups.
 </p>
 
 ---
 
 ## About Me
 
-- I study Data Science at IIT Madras and I am building toward serious work in machine learning and analytics.
-- I like clean problem framing, structured experimentation, and turning messy datasets into understandable results.
-- My current goal is simple: build better repositories, better writeups, and better proof of skill in public.
-- I want this profile to feel like a high-signal snapshot of where I am headed, not just a list of tools.
-
-```text
-CURRENT TRACK
--------------
-Machine Learning    : Model building, evaluation, experimentation
-Data Analysis       : Pandas, NumPy, SQL, exploratory workflows
-Visualization       : Matplotlib, Seaborn, Plotly, dashboard thinking
-Portfolio Direction : Recruiter-ready data projects with clean writeups
-```
+- I enjoy turning messy data into clear stories, useful models, and readable project work.
+- I care about clean problem framing, structured experimentation, and results that are easy to explain.
+- Right now I am focused on building a small but strong body of public work.
 
 ---
 
-## Toolkit and Workflow
+## Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,tensorflow,pytorch,git,github,vscode,linux,bash,anaconda&theme=dark" alt="Core data science and development tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=45E6FF&labelColor=090C14" alt="NumPy badge" />
-  <img src="https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=45E6FF&labelColor=090C14" alt="pandas badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=FF9B3D&labelColor=090C14" alt="scikit-learn badge" />
-  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=FF9B3D&labelColor=090C14" alt="Jupyter badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=45E6FF&labelColor=090C14" alt="Matplotlib badge" />
-  <img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=45E6FF&labelColor=090C14" alt="Seaborn badge" />
-  <img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=FF9B3D&labelColor=090C14" alt="Plotly badge" />
-  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=090C14" alt="Streamlit badge" />
+  Python, pandas, NumPy, scikit-learn, TensorFlow, PyTorch, SQL, Jupyter, Plotly, Git, and Linux.
 </p>
-
-| Area | Toolkit |
-| --- | --- |
-| Data Wrangling | Python, pandas, NumPy |
-| Machine Learning | scikit-learn, TensorFlow, PyTorch |
-| Visualization | Matplotlib, Seaborn, Plotly |
-| Workflow | Jupyter, Git, GitHub, VS Code, Linux |
-| Data Storage | SQL, MySQL, PostgreSQL |
-
----
-
-## What I Want This Profile To Show
-
-| Track | Signal |
-| --- | --- |
-| Data Analysis | Clean exploratory analysis, strong visual storytelling, better questions from data |
-| Machine Learning | Thoughtful experimentation, evaluation, iteration, and reproducible workflows |
-| Applied Projects | Repositories that are readable, structured, and useful beyond a notebook dump |
-
-- Fewer projects, better execution.
-- Better README narratives, clearer methodology, stronger results.
-- A profile that feels ambitious without pretending to have proof that is not there yet.
 
 ---
 
@@ -99,30 +48,6 @@ Portfolio Direction : Recruiter-ready data projects with clean writeups
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj369-3&theme=github_dark" alt="GitHub profile details for raj369-3" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/raj369-3/raj369-3/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake for raj369-3" width="100%" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/raj369-3">
-    <img src="https://img.shields.io/badge/GitHub-@raj369--3-0D1117?style=flat-square&logo=github&logoColor=45E6FF&labelColor=090C14" alt="GitHub handle badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rituparna_Gogoi-0D1117?style=flat-square&logo=linkedin&logoColor=45E6FF&labelColor=090C14" alt="LinkedIn profile badge" />
-  </a>
-  <a href="mailto:ritkashyap0@gmail.com">
-    <img src="https://img.shields.io/badge/Work_Gmail-ritkashyap0%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=FF9B3D&labelColor=090C14" alt="Reach out by email badge" />
-  </a>
-</p>
-
-<p align="center">
-  Building this profile into a stronger record of growth, sharper projects, and better technical storytelling.
 </p>
 
