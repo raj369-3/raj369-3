@@ -2,6 +2,8 @@
   <img src="./assets/profile-banner.gif" alt="Rituparna Gogoi animated GitHub banner" width="100%" />
 </p>
 
+<h1 align="center">Rituparna Gogoi</h1>
+
 <p align="center">
   <em>Machine learning, analytics, and visual storytelling.</em>
 </p>
@@ -40,10 +42,14 @@
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raj369-3&show_icons=true&hide_border=false&border_color=21314D&title_color=45E6FF&text_color=D3E8FF&icon_color=FF9B3D&bg_color=00000000&rank_icon=percentile&include_all_commits=true" alt="GitHub stats for raj369-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj369-3&theme=github_dark" alt="GitHub profile details for raj369-3" width="100%" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj369-3&theme=github_dark" alt="Top languages for raj369-3" />
   <img width="49%" src="https://streak-stats.demolab.com?user=raj369-3&theme=transparent&hide_border=false&border=21314D&ring=45E6FF&fire=FF9B3D&currStreakLabel=45E6FF&sideNums=F8FAFC&currStreakNum=F8FAFC&dates=90A9C7&sideLabels=C9DCF2" alt="GitHub streak stats for raj369-3" />
 </p>
 
