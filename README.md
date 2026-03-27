@@ -169,3 +169,5 @@ look sharp without sacrificing clarity or maintainability.
   <strong>Design note:</strong> This README is intentionally structured like a compact personal landing page:
   one strong hero, clear signals for recruiters, controlled widgets, and room to swap placeholders for real proof.
 </p>
+
+<!-- profile-refresh: 2026-03-27T15:03:00+05:30 -->
