@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Rituparna Gogoi data science GitHub banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Rituparna Gogoi creative GitHub banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&pause=1200&color=45E6FF&center=true&vCenter=true&width=1000&lines=Data+Science+student+at+IIT+Madras;Building+machine+learning%2C+analytics%2C+and+data-driven+projects;Turning+raw+data+into+clear+insight+and+useful+systems" alt="Typing introduction for Rituparna Gogoi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&pause=1200&color=45E6FF&center=true&vCenter=true&width=1000&lines=Patterns%2C+models%2C+and+curious+experiments;Building+machine+learning+and+analytics+projects+in+public;Turning+raw+data+into+clearer+stories+and+better+systems" alt="Typing introduction for Rituparna Gogoi" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IIT_Madras-Data_Science_Student-0D1117?style=for-the-badge&logo=googlescholar&logoColor=FF9B3D&labelColor=090C14" alt="IIT Madras data science student badge" />
-  <img src="https://img.shields.io/badge/Focus-Machine_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=45E6FF&labelColor=090C14" alt="Machine learning focus badge" />
-  <img src="https://img.shields.io/badge/Open_To-Internships_%26_Collaboration-0D1117?style=for-the-badge&logo=github&logoColor=45E6FF&labelColor=090C14" alt="Open to internships and collaboration badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=45E6FF&labelColor=090C14" alt="Machine learning badge" />
+  <img src="https://img.shields.io/badge/Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=FF9B3D&labelColor=090C14" alt="Analytics badge" />
+  <img src="https://img.shields.io/badge/Visual_Storytelling-0D1117?style=for-the-badge&logo=plotly&logoColor=45E6FF&labelColor=090C14" alt="Visual storytelling badge" />
+  <img src="https://img.shields.io/badge/Open_To-Collaboration-0D1117?style=for-the-badge&logo=github&logoColor=45E6FF&labelColor=090C14" alt="Open to collaboration badge" />
 </p>
 
 <p align="center">
@@ -23,7 +24,7 @@
 
 <p align="center">
   <strong>Rituparna Gogoi</strong><br />
-  Data Science student at IIT Madras building a sharper public body of work in machine learning, analytics, and intelligent systems.
+  Building thoughtful work around machine learning, analytics, and clearer ways to turn data into insight.
 </p>
 
 ---
@@ -46,7 +47,7 @@ Portfolio Direction : Recruiter-ready data projects with clean writeups
 
 ---
 
-## Data Science Stack
+## Toolkit and Workflow
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,tensorflow,pytorch,git,github,vscode,linux,bash,anaconda&theme=dark" alt="Core data science and development tools" />
@@ -116,5 +117,6 @@ Portfolio Direction : Recruiter-ready data projects with clean writeups
 </p>
 
 <p align="center">
-  Building this profile into a strong record of growth in data science, machine learning, and high-quality project work.
+  Building this profile into a stronger record of growth, sharper projects, and better technical storytelling.
 </p>
+
