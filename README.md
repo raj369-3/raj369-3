@@ -81,6 +81,6 @@
 ## Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&backgroundColor=0d1117&quoteColor=45E6FF&authorColor=F8FAFC&symbolColor=45E6FF" alt="Random developer quote" />
+  <img width="82%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&backgroundColor=161B22&quoteColor=C9D1D9&authorColor=F8FAFC&symbolColor=7EE787" alt="Random developer quote" />
 </p>
 
