@@ -12,17 +12,9 @@
   <em>"Turning messy datasets into readable stories, useful models, and sharper project work."</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/raj369-3">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=45E6FF" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=45E6FF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ritkashyap0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=45E6FF" alt="Email" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=45E6FF)](https://github.com/raj369-3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=45E6FF)](https://www.linkedin.com/in/rituparna-gogoi-235292320/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=45E6FF)](mailto:ritkashyap0@gmail.com)
 
 <p align="center">
   Building machine learning projects, cleaner analyses, and public writeups that are easy to follow.
