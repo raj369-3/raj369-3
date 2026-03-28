@@ -76,3 +76,11 @@
   <img src="https://raw.githubusercontent.com/raj369-3/raj369-3/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake for raj369-3" width="100%" />
 </p>
 
+---
+
+## Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&backgroundColor=0d1117&quoteColor=45E6FF&authorColor=F8FAFC&symbolColor=45E6FF" alt="Random developer quote" />
+</p>
+
