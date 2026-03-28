@@ -13,11 +13,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/raj369-3"><strong>GitHub</strong></a>
-  ·
-  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/"><strong>LinkedIn</strong></a>
-  ·
-  <a href="mailto:ritkashyap0@gmail.com"><strong>Work Gmail</strong></a>
+  <a href="https://github.com/raj369-3">
+    <img src="./assets/social/github.svg" alt="GitHub" width="18" height="18" />
+    <strong>GitHub</strong>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/">
+    <img src="./assets/social/linkedin.svg" alt="LinkedIn" width="18" height="18" />
+    <strong>LinkedIn</strong>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:ritkashyap0@gmail.com">
+    <img src="./assets/social/email.svg" alt="Email" width="18" height="18" />
+    <strong>Email</strong>
+  </a>
 </p>
 
 <p align="center">
