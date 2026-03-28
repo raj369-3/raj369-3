@@ -80,7 +80,7 @@
 
 ## Random Dev Quote
 
-<p align="center">
-  <img width="82%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&backgroundColor=161B22&quoteColor=C9D1D9&authorColor=F8FAFC&symbolColor=7EE787" alt="Random developer quote" />
-</p>
+> "Without data, you're just another person with an opinion."
+>
+> — W. Edwards Deming
 
