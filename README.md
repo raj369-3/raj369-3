@@ -12,9 +12,7 @@
   <em>"Turning messy datasets into readable stories, useful models, and sharper project work."</em>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=45E6FF)](https://github.com/raj369-3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=45E6FF)](https://www.linkedin.com/in/rituparna-gogoi-235292320/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=45E6FF)](mailto:ritkashyap0@gmail.com)
+[GitHub](https://github.com/raj369-3) · [LinkedIn](https://www.linkedin.com/in/rituparna-gogoi-235292320/) · [Email](mailto:ritkashyap0@gmail.com)
 
 <p align="center">
   Building machine learning projects, cleaner analyses, and public writeups that are easy to follow.
