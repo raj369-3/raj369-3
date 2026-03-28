@@ -14,18 +14,13 @@
 
 <p align="center">
   <a href="https://github.com/raj369-3">
-    <img src="./assets/social/github.svg" alt="GitHub" width="18" height="18" />
-    <strong>GitHub</strong>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=45E6FF" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rituparna-gogoi-235292320/">
-    <img src="./assets/social/linkedin.svg" alt="LinkedIn" width="18" height="18" />
-    <strong>LinkedIn</strong>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=45E6FF" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:ritkashyap0@gmail.com">
-    <img src="./assets/social/email.svg" alt="Email" width="18" height="18" />
-    <strong>Email</strong>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=45E6FF" alt="Email" />
   </a>
 </p>
 
@@ -80,7 +75,7 @@
 
 ## Random Dev Quote
 
-> "Without data, you're just another person with an opinion."
->
-> — W. Edwards Deming
+<p align="center">
+  <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&backgroundColor=161B22&quoteColor=C9D1D9&authorColor=F8FAFC&symbolColor=58A6FF" alt="Random developer quote" />
+</p>
 
